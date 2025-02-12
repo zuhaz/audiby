@@ -1,0 +1,17 @@
+@import "tailwindcss/base";
+
+@import "tailwindcss/components";
+
+@import "tailwindcss/utilities";
+
+.swiper-button-next:after,
+.swiper-button-prev:after {
+  @apply !content-none
+}
+
+@media (-webkit-min-device-pixel-ratio: 2), (min-resolution: 192dpi) { 
+  .slide-image img {
+    image-rendering: crisp-edges;
+    -webkit-optimize-contrast: exact;
+  }
+}
