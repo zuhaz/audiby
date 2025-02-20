@@ -46,6 +46,6 @@ Versatile Modern (*maybe*) Audiobook Player
 - [ ] **Tagging** *Needs to support tagging that can show Series and Sequence in Series    e.g Series - Lord of the Rings Sequence - Book 2 of 3*
 - [ ] **Separate progress bars for each chapter of a book too**
 - [ ] The playback speed control should be in increments of 0.01x so it can be more finetuned
-
-(Todo list made by @zuhaz & Jaz)
+- more to come
+- *TODO made by Jaz and modified by @zuhaz*
     
